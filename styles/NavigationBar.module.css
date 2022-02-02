@@ -1,0 +1,17 @@
+.navGreen {
+    color: blue !important;
+    
+}
+
+.flexLeftToRight {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.dividerline{
+    border-right-style: groove;
+}
+
+.paddingdropdown{
+    padding-right: 100px;
+}
